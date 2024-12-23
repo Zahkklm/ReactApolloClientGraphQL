@@ -1,7 +1,5 @@
 # React + GraphQL Events App
 
-## :computer: Installation
-
 ### 1. GraphQL Server
 
 1. Clone this repo and go to server folder.
